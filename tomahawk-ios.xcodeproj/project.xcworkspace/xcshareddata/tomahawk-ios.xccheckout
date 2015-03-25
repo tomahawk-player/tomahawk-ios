@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>569F514C-52CE-4CC5-A66F-699F20341131</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tomahawk-ios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EC526102DC61A47C5A4710AD9D7BD2C4F6783055</key>
+		<string>https://github.com/IntergalacticInteractive/tomahawk-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tomahawk-ios.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EC526102DC61A47C5A4710AD9D7BD2C4F6783055</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/IntergalacticInteractive/tomahawk-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC526102DC61A47C5A4710AD9D7BD2C4F6783055</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC526102DC61A47C5A4710AD9D7BD2C4F6783055</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tomahawk-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
